@@ -1,0 +1,22 @@
+input {
+  width: 100%;
+  height: 100%;
+}
+
+button {
+  width: 100%;
+}
+
+.row {
+  text-align: left;
+}
+
+.mb {
+
+  margin-bottom: 20px;
+}
+
+.rb {
+
+  margin-bottom: 20px;
+}
